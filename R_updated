@@ -2,7 +2,7 @@
 # Author: Somdeep Kundu
 # Date: 21 April 2025
 # Description: Reproducible R pipeline to compute and visualize LISA clusters, p-value maps, and Moran's I statistics for jhum and non-jhum cultivation across Indian regions based on NSS 77th Round data
-
+# Submitted to Prof. Satish B. Agnihotri, special thanks to Priyangshhi Biswas, IITB
 # =====================
 # 1. SETUP & LIBRARIES
 # =====================

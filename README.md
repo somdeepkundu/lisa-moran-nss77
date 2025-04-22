@@ -31,3 +31,4 @@ If using this workflow or adapting it in academic contexts, please cite:
 ```
 Kundu, S. (2025). Spatial Analysis of Jhum and Non-Jhum Cultivation using NSSO 77th Round Data. TD630 Coursework, CTARA, IIT Bombay.
 ```
+![image](https://github.com/user-attachments/assets/e19dfce8-04da-482a-a84d-07e30ff2d4dc)

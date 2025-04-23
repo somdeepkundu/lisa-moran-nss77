@@ -25,7 +25,7 @@ scripts/       # R scripts for processing and visualization
 - Moran's I values printed for both variables
 
 ### 📜 Citation
-If using this workflow or adapting it in academic contexts, please cite:
+Using this workflow or adapting it in academic contexts, if you wish, please cite:
 
 ```
 Kundu, S. (2025). Spatial Analysis of Jhum and Non-Jhum Cultivation using NSSO 77th Round Data. TD630 Coursework, CTARA, IIT Bombay.

@@ -9,7 +9,7 @@ This repository contains an R-based spatial analysis pipeline to calculate and v
 ### 🔍 Objectives
 - Analyze spatial clustering patterns of **jhum (shifting)** and **non-jhum crop cultivation**
 - Generate **LISA cluster maps** to identify High-High, Low-Low, and outlier zones
-- Compute **Moran’s I** statistics to assess global spatial autocorrelation. Xhange the P value for different significance levels
+- Compute **Moran’s I** statistics to assess global spatial autocorrelation. Change the P value for different significance levels
 
 
 ### 📁 Folder Structure

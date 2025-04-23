@@ -4,7 +4,7 @@
 
 ## 📌 Spatial Analysis of Jhum and Non-Jhum Cultivation in India (NSS 77th Round)
 
-This repository contains an R-based spatial analysis pipeline to calculate and visualize **Local Indicators of Spatial Association (LISA)** and **Moran's I** statistics for land-use variables derived from the **NSS 77th Round** – Situation Assessment Survey of Agricultural Households in Rural India (2018).
+This repository contains an R-based spatial analysis pipeline to calculate and visualize **Local Indicators of Spatial Association (LISA)** and **Moran's I** statistics for land-use variables derived from the **NSS 77th Round** – Land and Livestock Holding of Households and Situation Assessment of Agricultural Households in Rural India (2018).
 
 ### 🔍 Objectives
 - Analyze spatial clustering patterns of **jhum (shifting)** and **non-jhum crop cultivation**

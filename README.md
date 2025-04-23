@@ -13,10 +13,9 @@ This repository contains an R-based spatial analysis pipeline to calculate and v
 
 ### 📁 Folder Structure
 ```
-data/          # Shapefiles and source datasets
+data/          # Shapefiles 
 scripts/       # R scripts for processing and visualization
-figures/       # Output maps (PNG)
-results/       # CSVs or final spatial outputs (optional)
+
 ```
 
 ### 🛠️ Features
